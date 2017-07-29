@@ -13,6 +13,7 @@ h1{
 	text-shadow: 0px 0px 10px #06f, 0px 0px 15px #69f, 0px 0px 20px #0ff;
 	margin-left: 100px;
 	margin-top: 75px;
+	text-align: center;
 }
 
 a{
@@ -47,7 +48,7 @@ a:visited{
 	width:600px;
 	border: 4px solid #9cf;
 	border-radius:10px;
-	color: #000;
+	color: DarkSlateGrey;
 	font-size: 32px;
 	font-family:'Roboto', serif;
 	font-weight: 500;
